@@ -1,0 +1,12 @@
+c:\Code\MonoGameTest\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.deps.json
+c:\Code\MonoGameTest\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.dll
+c:\Code\MonoGameTest\MonoGameLibrary\bin\Debug\net8.0\MonoGameLibrary.pdb
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.AssemblyReference.cache
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfoInputs.cache
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.AssemblyInfo.cs
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.dll
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\refint\MonoGameLibrary.dll
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\MonoGameLibrary.pdb
+c:\Code\MonoGameTest\MonoGameLibrary\obj\Debug\net8.0\ref\MonoGameLibrary.dll

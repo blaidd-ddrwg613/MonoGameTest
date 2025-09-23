@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Code/MonoGameTest/MonoGameTest/Content/images/logo.png","c:/Code/MonoGameTest/MonoGameTest/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.1811163
