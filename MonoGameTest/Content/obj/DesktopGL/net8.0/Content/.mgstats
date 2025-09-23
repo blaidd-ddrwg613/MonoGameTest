@@ -1,2 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Code/MonoGameTest/MonoGameTest/Content/images/logo.png","c:/Code/MonoGameTest/MonoGameTest/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.1811163
+"C:/Code/MonoGameTest/MonoGameTest/Content/images/atlas-definitions.xml","C:\Code\MonoGameTest\MonoGameTest\Content\bin\DesktopGL\Content\images/atlas-definitions.xml","CopyItem","File",265,265,0.0013381
+"C:/Code/MonoGameTest/MonoGameTest/Content/images/atlas.png","C:/Code/MonoGameTest/MonoGameTest/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.1504691
+"C:/Code/MonoGameTest/MonoGameTest/Content/images/logo.png","C:/Code/MonoGameTest/MonoGameTest/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0180423

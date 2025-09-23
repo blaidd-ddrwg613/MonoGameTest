@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj": {}
+    "C:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj": {}
   },
   "projects": {
-    "c:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "c:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "C:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\MonoGameTest\\MonoGameLibrary\\obj\\",
+        "outputPath": "C:\\Code\\MonoGameTest\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "c:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj": {
+    "C:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj",
+        "projectUniqueName": "C:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj",
         "projectName": "MonoGameTest",
-        "projectPath": "c:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj",
+        "projectPath": "C:\\Code\\MonoGameTest\\MonoGameTest\\MonoGameTest.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\MonoGameTest\\MonoGameTest\\obj\\",
+        "outputPath": "C:\\Code\\MonoGameTest\\MonoGameTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-                "projectPath": "c:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj"
+              "C:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+                "projectPath": "C:\\Code\\MonoGameTest\\MonoGameLibrary\\MonoGameLibrary.csproj"
               }
             }
           }

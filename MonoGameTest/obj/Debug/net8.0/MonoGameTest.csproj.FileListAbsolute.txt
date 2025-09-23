@@ -32,3 +32,6 @@ c:\Code\MonoGameTest\MonoGameTest\obj\Debug\net8.0\ref\MonoGameTest.dll
 c:\Code\MonoGameTest\MonoGameTest\bin\Debug\net8.0\MonoGameLibrary.dll
 c:\Code\MonoGameTest\MonoGameTest\bin\Debug\net8.0\MonoGameLibrary.pdb
 c:\Code\MonoGameTest\MonoGameTest\bin\Debug\net8.0\Content\images\logo.xnb
+C:\Code\MonoGameTest\MonoGameTest\bin\Debug\net8.0\Content\images\atlas.xnb
+C:\Code\MonoGameTest\MonoGameTest\obj\Debug\net8.0\MonoGameTest.sourcelink.json
+C:\Code\MonoGameTest\MonoGameTest\bin\Debug\net8.0\Content\images\atlas-definitions.xml
