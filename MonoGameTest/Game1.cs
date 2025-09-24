@@ -8,8 +8,8 @@ namespace MonoGameTest;
 
 public class Game1 : Core
 {
-    private Sprite _slime;
-    private Sprite _bat;
+    private AnimatedSprite _slime;
+    private AnimatedSprite _bat;
     
     public Game1() : base("Dungeon Slime", 1080, 720, false)
     {
@@ -26,13 +26,12 @@ public class Game1 : Core
     protected override void LoadContent()
     {
         TextureAtlas atlas = TextureAtlas.FromFile(Content, "images/atlas-definitions.xml");
-        
-        // Create the Slime and Bat Sprites From our Atlas
-        _slime = atlas.CreateSprite("slime");
-        _slime.Scale = new Vector2(4.0f, 4.0f);
 
-        _bat = atlas.CreateSprite("bat");
+        _bat = atlas.CreateAnimatedSprite("bat-animation");
         _bat.Scale = new Vector2(4.0f, 4.0f);
+        
+        _slime = atlas.CreateAnimatedSprite("slime-animation");
+        _slime.Scale = new Vector2(4.0f, 4.0f);
     }
 
     protected override void Update(GameTime gameTime)
@@ -41,6 +40,9 @@ public class Game1 : Core
             Exit();
 
         // TODO: Add your update logic here
+        
+        _bat.Update(gameTime);
+        _slime.Update(gameTime);
 
         base.Update(gameTime);
     }
