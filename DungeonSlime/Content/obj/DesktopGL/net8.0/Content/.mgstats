@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Code/MonoGameTest/DungeonSlime/Content/images/atlas.png","C:/Code/MonoGameTest/DungeonSlime/Content/bin/DesktopGL/Content/images/atlas.xnb","TextureProcessor","Texture2DContent",590,16469,0.1161286
+"C:/Code/MonoGameTest/DungeonSlime/Content/images/logo.png","C:/Code/MonoGameTest/DungeonSlime/Content/bin/DesktopGL/Content/images/logo.xnb","TextureProcessor","Texture2DContent",16734,311381,0.0164179
